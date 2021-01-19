@@ -19,6 +19,4 @@ The document on how to use the Climate Data Center <br> archive can be found her
 
 ### LaTex  /MathJax ???
 
-$$
-\int_0^{\infty}e^{-x} = 1
-$$
+$\int_0^{\infty}e^{-x} = 1$
