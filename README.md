@@ -17,3 +17,8 @@ The document on how to use the Climate Data Center <br> archive can be found her
 
 ### The QGIS Project
 
+### LaTex  /MathJax ???
+
+$$
+\int_0^{\infty}e^{-x} = 1
+$$
